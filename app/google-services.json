@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "205566343397",
+    "project_id": "chatapplication-12b3d",
+    "storage_bucket": "chatapplication-12b3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205566343397:android:c2bcef4a49b809d2707c0c",
+        "android_client_info": {
+          "package_name": "com.learnoset.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205566343397-h0c26sccmn3nb7j6apr08b5jgdsj267r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learnoset.chatapplication",
+            "certificate_hash": "ce5dbf10dd6cb3a8952c3fde991ee53a45caa940"
+          }
+        },
+        {
+          "client_id": "205566343397-iu6boi05ss8a6gpudnunb6p0jkiqq6sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0T5gmy9yRA4E9DpfDgDnZfQZOclY72xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205566343397-iu6boi05ss8a6gpudnunb6p0jkiqq6sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
